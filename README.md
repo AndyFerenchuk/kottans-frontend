@@ -10,4 +10,4 @@ Now it seem that I now how to work with command line
 
         kottans-frontend/task_linux_cli/cli screen.jpg
 
-     ![alt text](https://github.com/AndyFerenchuk/kottans-frontend/blob/master/task_linux_cli/cli%20screen.jpg)
+     ![completed](kottans-frontend/task_linux_cli/cli screen.jpg)
