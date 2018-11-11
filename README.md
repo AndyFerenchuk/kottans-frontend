@@ -10,8 +10,6 @@ Now it seems that I now how to work with a command line
 
         kottans-frontend/task_linux_cli/cli screen.png
 
-     ![completed](
-        task_linux_cli/cliSscreen.png
-      )
+     ![completed](task_linux_cli/cliSscreen.png)
 
      
