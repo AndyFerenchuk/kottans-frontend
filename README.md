@@ -14,5 +14,5 @@ Now it seems that I now how to work with a command line
 
      
      ![niceCat](
-        kottans-frontend/task_linux_cli/niceCat.png
+        /task_linux_cli/niceCat.png
       )
