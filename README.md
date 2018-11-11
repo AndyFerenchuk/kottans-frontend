@@ -16,3 +16,5 @@ Now it seems that I now how to work with a command line
      ![niceCat](
         task_linux_cli/niceCat.png
       )
+
+![clisscreen](https://user-images.githubusercontent.com/29075777/48319000-9ba5ce00-e610-11e8-9c87-c4fcf7fac756.png)
