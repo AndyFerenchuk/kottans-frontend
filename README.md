@@ -10,4 +10,6 @@ Now it seem that I now how to work with command line
 
         kottans-frontend/task_linux_cli/cli screen.jpg
 
-     [completed](task_linux_cli/cli screen.jpg)
+     ![completed](task_linux_cli/cli screen.jpg)
+
+     ![cli screen](https://user-images.githubusercontent.com/29075777/48318185-42846d00-e605-11e8-9a68-af57056e0469.jpg)
