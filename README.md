@@ -13,4 +13,4 @@ Now it seems that I now how to work with a command line
      ![completed](task_linux_cli/cliSscreen.png)
 
      
-     ![niceCat](niceCat.png)
+     ![niceCat](/niceCat.png)
