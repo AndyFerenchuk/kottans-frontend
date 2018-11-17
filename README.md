@@ -15,6 +15,6 @@ Now it seems that I now how to work with a command line
 
 ![screen1](task_git_collaboration/githubAndCollaboration.jpg)
 
-![screen2](versionControlWithGit)
+![screen2](task_git_collaboration/versionControlWithGit)
 
 The information in finished courses was very interesting and useful, all thing are very surprising and Im going to use it all comleately.
