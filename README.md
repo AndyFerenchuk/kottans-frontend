@@ -17,3 +17,11 @@ Now it seems that I now how to work with a command line
 ![screen2](task_git_collaboration/versionControlWithGit.jpg)
 
 The information in finished courses was very interesting and useful, all thing are very surprising and Im going to use it all comleately.
+
+## Intro to HTML and CSS
+
+![udacity](task_git_html_css_intro/htmlAndCssUdacity.jpg)
+![html1](task_git_html_css_intro/htmlAcademyHtml.jpg)
+![html2](task_git_html_css_intro/htmlAcademyCSS.jpg)
+
+I did all of those once before
