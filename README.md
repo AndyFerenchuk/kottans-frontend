@@ -25,3 +25,10 @@ The information in finished courses was very interesting and useful, all thing a
 ![html2](task_git_html_css_intro/htmlAcademyCSS.jpg)
 
 I did all of those once before
+
+## Responsive Web Design
+
+![udasity_rwb](task_responsive_web_design/rwdUdemy.jpg)
+![udasity_rwb](task_responsive_web_design/froggy.jpg)
+
+Responsive web design is very cool thing. Froggy was fun )
